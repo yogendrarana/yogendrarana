@@ -41,17 +41,3 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </div>
 <br />
-
-
-<h3>My Github Stats</h3>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=YogendraRana&show_icons=true&locale=en" alt="yogendrarana" />
-</div>
-<br />
-
-
-<h3>My Github Activities</h3>
-<div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YogendraRana&" alt="yogendrarana" />
-</div>
-<br />
