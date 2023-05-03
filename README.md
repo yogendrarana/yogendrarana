@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Yogendra Rana 😎</h1>
 
-- 🎈 I'm a **MERN Stack** developer with knowledge in **Django** as well.
+- 🎈 I am a **MERN Stack** developer with knowledge in **Django** as well.
 
 - 🌱 I'm currently learning **React Native and JavaFX**
 
