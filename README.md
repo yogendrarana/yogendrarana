@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native and JavaFX**
 
-- 💬 Ask me about **MERN Stack and Next JS**
+- 💬 Ask me about **MERN Stack, Django and Next JS**
 
 - 📫 Reach me through **yogendrarana.mail@gmail.com**
 
