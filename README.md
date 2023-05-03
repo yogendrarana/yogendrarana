@@ -1,5 +1,4 @@
 <h1 align="left">Hello, I'm Yogendra Rana 😎</h1>
-<br />
 
 - 🌱 I’m currently learning **React Native and JavaFX**
 
@@ -7,7 +6,6 @@
 
 - 📫 Reach me through **yogendrarana.mail@gmail.com**
 <br />
-
 
 <h3>Languages and Tools:</h3>
 <div>
