@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **MERN Stack, Django and Next JS**
 
-- 📫 Reach me through **yogendrarana.mail@gmail.com**
+- 📫 Reach me through **yogendrarana.mail@gmail.com or yogendrarana4321@gmail.com**
 
 <br />
 <h3>Connect with me:</h3>
