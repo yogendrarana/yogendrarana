@@ -2,7 +2,7 @@
 
 - 🎈 I am a **MERN Stack** developer with knowledge in **Django** as well.
 
-- 🌱 I'm currently learning **React Native and JavaFX**
+- 🌱 I'm currently learning **Next JS and React Native**
 
 - 💬 Ask me about **MERN Stack, Django and Next JS**
 
