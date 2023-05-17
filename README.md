@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **Next JS and React Native**
 
-- 💬 Ask me about **MERN Stack, Django and Next JS**
+- 💬 Ask me about **MERN Stack, Next JS and React Native**
 
 - 📫 Reach me through **yogendrarana.mail@gmail.com or yogendrarana4321@gmail.com**
 
