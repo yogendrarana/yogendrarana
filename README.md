@@ -1,8 +1,6 @@
 <h1 align="left">Hello, I'm Yogendra Rana 😎</h1>
 
-- 🎈 I am a **MERN Stack** developer with knowledge in **Django** as well.
-
-- 🌱 I'm currently learning **Next JS and React Native**
+- 🎈 I am a **MERN Stack** developer with knowledge in **Next JS 13 and React Native** as well.
 
 - 💬 Ask me about **MERN Stack, Next JS and React Native**
 
