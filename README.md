@@ -2,7 +2,7 @@
 
 - 🎈 I am a **MERN Stack** developer and i'm currently learning **NextJS** and **React Native** to expand my skills as a developer.
 
-- 💬 Ask me about **MERN Stack, Next JS and React Native**
+- 💬 Ask me about **MERN Stack, NextJS and React Native**
 
 - 📫 Reach me through **yogendrarana.mail@gmail.com or yogendrarana4321@gmail.com**
 
