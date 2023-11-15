@@ -2,7 +2,7 @@
 
 - 🎈 I am a **MERN Stack** developer and i'm currently learning **Rust** and **Golang** to expand my skills as a developer.
 
-- 💬 Ask me about **MERN Stack, NextJS and NextJS.**
+- 💬 Ask me about **MERN Stack, NextJS and NestJS.**
 
 - 📫 Reach me through **yogendrarana.mail@gmail.com or yogendrarana4321@gmail.com**
 
