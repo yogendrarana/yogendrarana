@@ -1,8 +1,8 @@
 <h1 align="left">Hello, I'm Yogendra Rana 😎</h1>
 
-- 🎈 I am a **MERN Stack** developer and i'm currently learning **React Native** and **Golang** to expand my skills as a developer.
+- 🎈 I am a **MERN Stack** developer and i'm currently learning **Rust** and **Golang** to expand my skills as a developer.
 
-- 💬 Ask me about **MERN Stack, NextJS and React Native**
+- 💬 Ask me about **MERN Stack, NextJS and NextJS**
 
 - 📫 Reach me through **yogendrarana.mail@gmail.com or yogendrarana4321@gmail.com**
 
