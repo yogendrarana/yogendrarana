@@ -26,11 +26,11 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 
@@ -48,7 +48,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 
