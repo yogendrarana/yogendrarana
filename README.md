@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Yogendra Rana 😎</h1>
+<h1 align="left">Hello, I'm Yogendra Rana</h1>
 
 - 🎈 I am a **MERN Stack** developer and i'm currently learning **Rust** and **Golang** to expand my skills as a developer.
 
