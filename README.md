@@ -6,7 +6,7 @@
 
 - 📫 Reach me through **yogendrarana.mail@gmail.com or yogendrarana4321@gmail.com**
 
-- 🌐 This is my portfolio website. Check it out! [yogendrarana.com.np](https://yogendrarana.com.np)
+- 🌐 This is my portfolio website. Check it out! [www.yogendrarana.com.np](https://yogendrarana.com.np)
 
 <br />
 
