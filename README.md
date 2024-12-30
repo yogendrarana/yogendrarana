@@ -1,18 +1,10 @@
 <h1 align="left">Hello, I'm Yogendra Rana</h1>
 
+- These are my social links: [**Twitter**](https://twitter.com/yoogendra_rana), [**Instagram**](https://instagram.com/yogendra.rana.magar)
+
 - Reach me through **yogendrarana.mail@gmail.com**
 
-- This is my portfolio website. Check it out! [www.yogendrarana.com.np](https://yogendrarana.com.np)
-
-<br />
-
-### Connect with me:
-<div>
-<a href="https://twitter.com/yoogendra_rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator  /master/src/images/icons/Social/twitter.svg" alt="yoogendra_rana" height="30" width="40" /></a>
-<a href="https://fb.com/i.am.yogendra.rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="i.am.yogendra.rana" height="30" width="40" /></a>
-<a href="https://instagram.com/yo9endra_rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yo9endra_rana" height="30" width="40" /></a>
-</div>
-
+- This is my portfolio website. Check it out! [**www.yogendrarana.com.np**](https://yogendrarana.com.np)
 
 <br />
 
@@ -22,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 
