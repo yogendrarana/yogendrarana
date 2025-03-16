@@ -8,7 +8,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
@@ -49,7 +49,7 @@
 
 <br/>
 
-### Most Used Languages:
+## Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendrarana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 <br />
