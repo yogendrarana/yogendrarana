@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Yogendra Rana</h1>
+<h2 align="left">Hello, I'm Yogendra Rana</h2>
 
 I'm a Full Stack JavaScript/TypeScript Web Developer from Nepal. I've been actively working in the field since early 2023.
 
