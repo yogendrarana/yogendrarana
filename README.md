@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Yogendra Rana</h1>
 
-I'm a Full Stack JavaScript/TypeScript Web Developer. I've been actively working in the field since early 2023.
+I'm a Full Stack JavaScript/TypeScript Web Developer from Nepal. I've been actively working in the field since early 2023.
 
 - 🔗 My Social Links: [**Twitter**](https://twitter.com/yoogendra_rana), [**Instagram**](https://instagram.com/yogendra.rana.magar)
 - 📧 Email: **yogendrarana.mail@gmail.com**  
