@@ -1,10 +1,11 @@
 <h1 align="left">Hello, I'm Yogendra Rana</h1>
 
-- These are my social links: [**Twitter**](https://twitter.com/yoogendra_rana), [**Instagram**](https://instagram.com/yogendra.rana.magar)
+I'm a Full Stack JavaScript/TypeScript Web Developer. I've been actively working in the field since early 2023.
 
-- Reach me through **yogendrarana.mail@gmail.com**
+- 🔗 My Social Links: [**Twitter**](https://twitter.com/yoogendra_rana), [**Instagram**](https://instagram.com/yogendra.rana.magar)
+- 📧 Email: **yogendrarana.mail@gmail.com**  
+- 🌐 Portfolio: [**www.yogendrarana.com.np**](https://yogendrarana.com.np)
 
-- This is my portfolio website. Check it out! [**www.yogendrarana.com.np**](https://yogendrarana.com.np)
 
 <br />
 
