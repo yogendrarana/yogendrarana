@@ -54,12 +54,12 @@ I'm a Full Stack JavaScript/TypeScript Web Developer from Nepal.
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" height="50" />
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" height="50" />
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="120">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />
     </td>
