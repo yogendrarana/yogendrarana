@@ -46,9 +46,6 @@ I'm a Full Stack JavaScript/TypeScript Web Developer from Nepal.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" height="50" />
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" height="50" />
-    </td>
-    <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
     </td>
     <td align="center" width="120">
