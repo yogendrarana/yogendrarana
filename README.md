@@ -1,10 +1,10 @@
-<h2 align="left">Hello, I'm Yogendra Rana</h2>
+<h2 align="left">Yogendra Rana</h2>
 
-I'm a Full Stack JavaScript/TypeScript Web Developer from Nepal.
+Full Stack JavaScript/TypeScript Web Developer from Nepal.
 
-- 🔗 My Social Links: [**Twitter**](https://twitter.com/yoogendra_rana), [**Instagram**](https://instagram.com/yogendra.rana.magar)
-- 📧 Email: **yogendrarana.mail@gmail.com**  
-- 🌐 Portfolio: [**www.yogendrarana.com.np**](https://yogendrarana.com.np)
+- Social Links: [**Twitter**](https://twitter.com/yoogendra_rana), [**Instagram**](https://instagram.com/yogendra.rana.magar)
+- Email: **yogendrarana.mail@gmail.com**  
+- Website: [**www.yogendrarana.com.np**](https://yogendrarana.com.np)
 
 
 <br />
