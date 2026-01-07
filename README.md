@@ -1,11 +1,8 @@
-<h2 align="left">Yogendra Rana</h2>
-
-Full Stack JavaScript/TypeScript Web Developer from Nepal.
+**Yogendra Rana** (Full Stack JavaScript/TS Web Developer from Nepal)
 
 - Social Links: [**Twitter**](https://twitter.com/yoogendra_rana), [**Instagram**](https://instagram.com/yogendra.rana.magar)
 - Email: **yogendrarana.mail@gmail.com**  
 - Website: [**www.yogendrarana.com.np**](https://yogendrarana.com.np)
-
 
 <br />
 
