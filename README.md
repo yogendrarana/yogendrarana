@@ -65,12 +65,4 @@
     </td>
   </tr>
 </table>
-
-
-
-<br/>
-
-## Most Used Languages:
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendrarana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
 <br />
