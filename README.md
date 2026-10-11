@@ -7,7 +7,7 @@
 <br />
 
 ## Main Stack:
-<table align="center">
+<table>
   <tr>
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
@@ -35,7 +35,7 @@
 <br />
 
 ## Other Languages and Tools:
-<table align="center">  
+<table>  
   <tr>
       <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="50" />
